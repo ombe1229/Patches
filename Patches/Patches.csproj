@@ -60,6 +60,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Configs.cs" />
+        <Compile Include="Patches\ScpSpeak.cs" />
         <Compile Include="Plugin.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
